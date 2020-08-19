@@ -1,0 +1,151 @@
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Lobster Two', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  height: 100%;
+  padding-top: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.pro-pic {
+  width: 200px;
+}
+
+.prog-skill {
+  position: relative;
+  padding-left: 100px;
+
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+
+.coffeebr {
+  height: auto;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cap {
+  height: auto;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.button {
+  background-color: #11CDD4;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button:hover {
+  background: #30E3CB;
+  text-decoration: none;
+}
